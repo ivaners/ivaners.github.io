@@ -35,3 +35,11 @@ tags: []
 	$rake page name="pages/about"
 	Creating new page: ./pages/about/index.html
 	
+**github搭建jekyll博客（Jekyll-Bootstrap）**
+
+    $ git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com
+    $ cd USERNAME.github.com
+    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
+    $ git push origin master
+
+两分钟后你的Blog神奇的出现在 http://USERNAME.github.com
