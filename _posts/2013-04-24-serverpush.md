@@ -83,6 +83,6 @@ XHTML
 
 运行效果:在图中可以看到无数据的请求时间达到了40S，在40S的请求中若获得数据则请求关闭。
 
-![](http://ivaners.github.io/image/1335580.gif)
+![](https://raw.github.com/ivaners/ivaners.github.io/master/images/1335580.gif)
 
 原文链接：http://www.xiaocai.name/emlog/?post=32
